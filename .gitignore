@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+ENV/
+venv/
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+lib/
+lib64/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.whl
+*.pth
+
+# Django specific
+*.log
+*.pot
+*.db
+local_settings.py
+db.sqlite3
+media/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+*.swp
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+#Project metadata and packaging
+*.egg-info
+*.lock
