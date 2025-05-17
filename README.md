@@ -1,0 +1,1 @@
+Projeto Django criado em aula no Senac Catanduva.
